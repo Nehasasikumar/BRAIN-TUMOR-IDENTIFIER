@@ -1,2 +1,2 @@
 # BRAIN-TUMOR-IDENTIFIER
-A CNN model is trained to detect brain tumor using MRI Images..
+It leverages Convolutional Neural Networks (CNNs) to automate the detection of brain tumors in MRI scans. The traditional method of manual MRI examination can be time-consuming and prone to human error. In contrast, CNNs are capable of automatically identifying patterns in medical images, leading to enhanced diagnostic accuracy. This project focuses on building a deep learning model that classifies MRI scans into two categories: 'Brain Tumor Detected' and 'No Tumor'.
